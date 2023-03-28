@@ -7,7 +7,7 @@ Resolução do desafio técnico da empresa HartBr aonde utilizei a linguagem de 
 ## Considerações sobre o desafio
 
 
-Foi um desafio muito desafiador, pois tenho apenas o básico de conhecimento na linguagem de programação python, mas foi muito interessante, pois eu tive a oportunidade de aprender a aprender, adquiri conhecimentos novos e aprender a pesquisar acertivamente para conseguir desenvolver o teste.
+Foi um teste muito desafiador, pois tenho apenas o básico de conhecimento na linguagem de programação python, mas foi muito interessante, pois eu tive a oportunidade de aprender a aprender, de adquirir conhecimentos novos e aprender a pesquisar acertivamente para conseguir desenvolver o teste.
 
 
 # O Desafio
